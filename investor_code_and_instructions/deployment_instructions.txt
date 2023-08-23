@@ -1,0 +1,9 @@
+
+1. Install Python (3.6 or newer) and openai package using pip install openai.
+2. Set up the email configurations securely.
+3. Update the email sending and reading functions in the code.
+4. Deploy the script to your server or machine with internet access.
+5. Run the script using python script_name.py with necessary arguments.
+6. Optionally, schedule the script using a task scheduler like cron, Task Scheduler, or launchd.
+7. Monitor logs for errors or issues and update configurations as necessary.
+8. Ensure the machine is secure, and access is restricted for security.
